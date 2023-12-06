@@ -1,0 +1,19 @@
+{
+  "name": "stephen-curry",
+  "version": "1.0.0",
+  "description": "Pagina tributo al mejor de todos los tiempos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaiFilipelli/Tributo-Stephen.git"
+  },
+  "author": "Taiel Filipelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaiFilipelli/Tributo-Stephen/issues"
+  },
+  "homepage": "https://github.com/TaiFilipelli/Tributo-Stephen#readme"
+}
